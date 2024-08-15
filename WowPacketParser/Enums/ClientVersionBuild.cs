@@ -769,6 +769,11 @@ namespace WowPacketParser.Enums
         V3_4_3_53622 = 53622, // live
         V3_4_3_53788 = 53788, // live
         V3_4_3_54261 = 54261, // live
+        V3_4_3_55392 = 55392, // class china
+        V3_4_3_55417 = 55417, // class china
+        V3_4_3_55586 = 55586, // class china
+        V3_4_3_56011 = 56011, // class china
+        V3_4_3_56030 = 56030, // class china
 
         V4_4_0_54481 = 54481, // both live and ptr
         V4_4_0_54500 = 54500, // both live and ptr
